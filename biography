@@ -1,0 +1,49 @@
+
+<html>
+<head>
+<title>A little bit about me</title>
+</head>
+<!-- The information between the BODY and /BODY tags is displayed.-->
+<style>
+
+	body{
+		background-color: #FFCCFF ;
+	font-size: 20px;
+	text-align:center;
+	}
+div{
+	background-color: orange;
+
+	text-align: center;
+}
+
+}
+</style>
+
+
+
+<body>
+<h1 align=center>Varun Chawla</h1><!-- Paragraph.-->
+<div>
+	<p>Varun Chawla (varunchawla27@gmail.com) is currently a senior at University of Florida majoring in Computer Science at University Of Florida.<br>
+
+Since the day he first laid his hands on a computer, he has been fascinated with the wonder machine. Computers have always enthralled him and have filled his imagination. Computers Science as a subject was a part of his school syllabus. Driven by his keen interest in the subject and the confidence of an excellent student, he decided to take up Computer Science in his High School.<br>
+
+His school education has left an indelible mark on his personality and has contributed a great deal to his holistic development as a student and as an individual. In school, he developed analytical thinking and a keen sense of reasoning. His favorite subjects in school, in addition to Computer Science,   were
+Mathematics and Physics. His performance in Computer Science examinations was invariably outstanding. This is the reason he scored almost 95 percentile in the Math section of his SAT.<br>
+
+His desire to explore further, the world of computers, led him to pursue his Under Graduation in Computer Science.After being admitted into to Hillsborough Community College in Fall 2010, he has continued to perform well. After obtaining his Associates in Computer Science, he transferred to University of Florida and currently is working on his Bachelors in Computer Science with a minor in Mathematics and Sales Engineering.<br>
+
+As part of his extra-circular activities, he initiated the formation of a Chess Club at HCC Dale Mabry campus. This was done as he felt the absence of a proper platform for students to display their talent in a game like Chess, which he considered as an important indoor sport that increases the mental aptitude of any individual involved in it. He was the president of this club for almost two years.<br>
+
+He also brought laurels to the college by securing the first position in the Chess Tournament organized between the HCC Dale Mabry and HCC Ybor City three times in a row. He was also the president of Physics Club in his college. This club looked into the theoretical and practical aspects of Physics Subject.<br>
+
+He is also the current vice-president of Gator Chess Club and is also actively involved in his fraternity Beta Chi Theta taking up various leadership roles. He is also an active member of various organizations like UF Racquetball Club, Gator Salsa Club, and Society of Sales Engineer etc.<br>
+
+He is also planning to finish his Bachelors in Spring 2016 and then looking to work full time for big companies like Apple, Microsoft, Amazon or Google.<br>
+
+In the long run he would also like to do his bit in the research and development in the field of Computer Science and become an Intrapreneur.<br>
+</p>
+</div>
+</body>
+</html>
